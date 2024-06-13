@@ -1,8 +1,9 @@
 # Error Handling
 The solidity program shows the usage of "Error Handling" using multiple functions like require,revert and assert.
 ##  Description
-This Program is a contract in solidity which uses error handling which is a concept to handle errors aur inspect functions to prevent errors or revert it back in initial stage in case an error occurs.
-it is a simple age checker program using error handling and can be used as stepping stone for my future projects.
+This Program is a contract in solidity which uses error handling which is a concept to handle errors or inspect functions to prevent errors or revert it back in initial stage in case an error occurs.
+it is a crowdfunding smart contract using error handling and can be used as stepping stone for my future projects.
+Here you can deposit funds withdraw them when the goal of crowdfunding is met or refund them in between in case of any emergency.I have used multiple error handlers to ensure that if any discrepancy occurs then transcation will be reverted back according.For withdrawing your address is checked and your amount is checked whether or not you have met the goal for crowfunding is checked and then you can withdraw.In case of a refund the whole amount you have contributed till now is returned back.
 ## Getting Started
 ### Executing the program 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
