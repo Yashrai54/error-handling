@@ -7,7 +7,7 @@ Here you can deposit funds withdraw them when the goal of crowdfunding is met or
 ## Getting Started
 ### Executing the program 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
-after going to remix create a file named as agechecker.sol and copy and paste the given code in that file.
+after going to remix create a file named as crowdfunding.sol and copy and paste the given code in that file.
 To compile the program click on solidity compiler in left hand side and compile the program.
 Then deploy the transaction using deploy button .after this enter the value for ages and click on the function which you want to use to check if the code works or not.
 
